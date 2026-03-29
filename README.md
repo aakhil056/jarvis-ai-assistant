@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![AI](https://img.shields.io/badge/AI-Assistant-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # 🤖 Jarvis AI Assistant
 
 A powerful AI assistant that can chat, understand voice, process images, and respond in real-time — inspired by ChatGPT and modern AI agents.
