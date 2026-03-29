@@ -42,4 +42,3 @@ A powerful AI assistant that can chat, understand voice, process images, and res
 git clone https://github.com/aakhil056/jarvis-ai-assistant.git
 cd jarvis-ai-assistant
 
-## 📸 Demo telegram Bot
